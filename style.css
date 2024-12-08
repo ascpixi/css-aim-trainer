@@ -1,0 +1,78 @@
+/* The looks of the game. */
+
+a:link, a:visited, a {
+    color: crimson;
+}
+
+#lives {
+    position: absolute;
+    right: 0;
+    margin: 1em;
+}
+
+.life {
+    color: gray;
+    margin: 0 .25em;
+    display: inline-block;
+    font-size: 4em;
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+
+.low-hp-warning {
+    display: none;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    box-shadow: 0 0 200px rgba(255,0,0,0.2) inset;
+    pointer-events: none;
+}
+
+#game-over {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, .5);
+    flex-direction: column;
+    z-index: 9;
+    font-size: 2em;
+    backdrop-filter: blur(2px);
+}
+
+#game-over h1, #game-over p {
+    margin: 0;
+}
+
+.circle {
+    position: absolute;
+    border: 2px solid white;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 100%;
+    width: 7vw;
+    height: 7vw;
+}
+
+.circle:checked::before {
+    font-size: 3em;
+    padding: 0 1em;
+    display: block;
+    position: absolute;
+    text-align: center;
+    left: 49vw;
+    background: #111;
+    color: #fff;
+}
+
+.progress-bg {
+    animation: progress-anim 50s forwards linear;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.025);
+    position: absolute;
+}
+
+@keyframes progress-anim {
+    0% { width: 0%; }
+    100% { width: 100%; }
+}

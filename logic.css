@@ -1,0 +1,131 @@
+/*
+    The logic stylesheet for the game - this contains stuff like animations,
+    input handling, gameplay, etc...
+*/
+
+:root {
+    counter-reset: score;
+}
+
+/* 
+ * The background click handler is a radio box element that fills the entire background, 
+ * so that when it's clicked, it stays checked. This way we can detect if the background has been clicked.
+*/
+.backgroundClickHandler {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+}
+
+/* The handler disables itself when it recieves a click */
+.backgroundClickHandler:checked {
+    display: none;
+}
+
+/* When a background click handler gets triggered, make appropriate changes to the lives box */
+.backgroundClickHandler.one:checked ~ #lives>.life.one,
+.backgroundClickHandler.two:checked ~ #lives>.life.two,
+.backgroundClickHandler.three:checked ~ #lives>.life.three {
+    color: red;
+    animation: life-lost 0.25s forwards;
+}
+
+@keyframes life-lost {
+    0% { transform: scale(1); }
+    50% { transform: scale(2); }
+    100% { transform: scale(1); }
+}
+
+/* When the last background click handler will be triggered, then display a game over screen */
+#game-over {
+    opacity: 0;
+    transition: opacity .25s;
+}
+
+.backgroundClickHandler.three:checked ~ #game-over {
+    display: flex;
+    opacity: 1;
+}
+
+.backgroundClickHandler.three:checked ~ .circles .circle:checked {
+    z-index: 100;
+    width: 100%;
+}
+
+/* Display the score on the game over screen */
+.backgroundClickHandler.three:checked ~ .circles .circle:checked::before {
+    top: 70vh;
+    content: "Your score: " counter(score);
+    width: 100%;
+    left: 0;
+    padding: 0;
+    background: #080808;
+}
+
+/* Show the low HP warning when on one life */
+.backgroundClickHandler.two:checked ~ .low-hp-warning {
+    display: block;
+    animation: warning-show-anim .5s forwards;
+}
+
+@keyframes warning-show-anim {
+    0%{
+        box-shadow: 0 0 200px rgba(255,0,0,0) inset;
+    }
+
+    100%{
+        box-shadow: 0 0 200px rgba(255,0,0,0.2) inset;
+    }
+}
+
+/********** CIRCLE LOGIC ************/
+.circle {
+    appearance: none;
+    opacity: 0;
+    pointer-events: none;
+    animation: circle-lifecycle 1s forwards;
+}
+
+/* Defines how the circle behaves in its lifespan */
+@keyframes circle-lifecycle {
+    0% {
+        display: block;
+        opacity: 0;
+        pointer-events: all;
+        cursor: pointer;
+    }
+    70% { opacity: 1; }
+    85% { opacity: 1; }
+    99% { opacity: 0; pointer-events: all; cursor: pointer; }
+    100% {
+        opacity: 0;
+        display: none;
+        pointer-events: none;
+        cursor: default;
+    }
+}
+
+/*
+ * When the circle is clicked, increment the score and hide the circle
+ * We don't hide it the obvious way ("display: none"), because then it would hide
+ * the pseudo-elements (which we use to display the score). Instead, we change the location
+ * of the circle to top-left, hide it, and disable all pointer events.
+*/
+.circle:checked {
+    position: absolute;
+    counter-increment: score;
+    pointer-events: none;
+    visibility: hidden;
+    left: 0 !important;
+    top: 0 !important;
+    animation: none;
+    opacity: 1;
+    animation: circle-hit 0.25s;
+}
+
+/* Score display */
+.circle:checked::before {
+    content: counter(score);
+    visibility: visible;
+}

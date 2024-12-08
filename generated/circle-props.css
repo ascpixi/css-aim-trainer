@@ -1,0 +1,1201 @@
+/* This stylesheet was generated using generate_css.py */
+.circle:nth-child(1) {
+    border-color: hsl(62, 100%, 50%);
+    animation-delay: 250ms;
+    box-shadow: 0 0 16px hsl(62, 100%, 50%);
+}
+
+.circle:nth-child(2) {
+    border-color: hsl(40, 100%, 50%);
+    animation-delay: 500ms;
+    box-shadow: 0 0 16px hsl(40, 100%, 50%);
+}
+
+.circle:nth-child(3) {
+    border-color: hsl(298, 100%, 50%);
+    animation-delay: 750ms;
+    box-shadow: 0 0 16px hsl(298, 100%, 50%);
+}
+
+.circle:nth-child(4) {
+    border-color: hsl(230, 100%, 50%);
+    animation-delay: 1000ms;
+    box-shadow: 0 0 16px hsl(230, 100%, 50%);
+}
+
+.circle:nth-child(5) {
+    border-color: hsl(196, 100%, 50%);
+    animation-delay: 1250ms;
+    box-shadow: 0 0 16px hsl(196, 100%, 50%);
+}
+
+.circle:nth-child(6) {
+    border-color: hsl(99, 100%, 50%);
+    animation-delay: 1500ms;
+    box-shadow: 0 0 16px hsl(99, 100%, 50%);
+}
+
+.circle:nth-child(7) {
+    border-color: hsl(281, 100%, 50%);
+    animation-delay: 1750ms;
+    box-shadow: 0 0 16px hsl(281, 100%, 50%);
+}
+
+.circle:nth-child(8) {
+    border-color: hsl(109, 100%, 50%);
+    animation-delay: 2000ms;
+    box-shadow: 0 0 16px hsl(109, 100%, 50%);
+}
+
+.circle:nth-child(9) {
+    border-color: hsl(239, 100%, 50%);
+    animation-delay: 2250ms;
+    box-shadow: 0 0 16px hsl(239, 100%, 50%);
+}
+
+.circle:nth-child(10) {
+    border-color: hsl(296, 100%, 50%);
+    animation-delay: 2500ms;
+    box-shadow: 0 0 16px hsl(296, 100%, 50%);
+}
+
+.circle:nth-child(11) {
+    border-color: hsl(61, 100%, 50%);
+    animation-delay: 2750ms;
+    box-shadow: 0 0 16px hsl(61, 100%, 50%);
+}
+
+.circle:nth-child(12) {
+    border-color: hsl(267, 100%, 50%);
+    animation-delay: 3000ms;
+    box-shadow: 0 0 16px hsl(267, 100%, 50%);
+}
+
+.circle:nth-child(13) {
+    border-color: hsl(249, 100%, 50%);
+    animation-delay: 3250ms;
+    box-shadow: 0 0 16px hsl(249, 100%, 50%);
+}
+
+.circle:nth-child(14) {
+    border-color: hsl(102, 100%, 50%);
+    animation-delay: 3500ms;
+    box-shadow: 0 0 16px hsl(102, 100%, 50%);
+}
+
+.circle:nth-child(15) {
+    border-color: hsl(228, 100%, 50%);
+    animation-delay: 3750ms;
+    box-shadow: 0 0 16px hsl(228, 100%, 50%);
+}
+
+.circle:nth-child(16) {
+    border-color: hsl(251, 100%, 50%);
+    animation-delay: 4000ms;
+    box-shadow: 0 0 16px hsl(251, 100%, 50%);
+}
+
+.circle:nth-child(17) {
+    border-color: hsl(74, 100%, 50%);
+    animation-delay: 4250ms;
+    box-shadow: 0 0 16px hsl(74, 100%, 50%);
+}
+
+.circle:nth-child(18) {
+    border-color: hsl(41, 100%, 50%);
+    animation-delay: 4500ms;
+    box-shadow: 0 0 16px hsl(41, 100%, 50%);
+}
+
+.circle:nth-child(19) {
+    border-color: hsl(213, 100%, 50%);
+    animation-delay: 4750ms;
+    box-shadow: 0 0 16px hsl(213, 100%, 50%);
+}
+
+.circle:nth-child(20) {
+    border-color: hsl(340, 100%, 50%);
+    animation-delay: 5000ms;
+    box-shadow: 0 0 16px hsl(340, 100%, 50%);
+}
+
+.circle:nth-child(21) {
+    border-color: hsl(75, 100%, 50%);
+    animation-delay: 5250ms;
+    box-shadow: 0 0 16px hsl(75, 100%, 50%);
+}
+
+.circle:nth-child(22) {
+    border-color: hsl(114, 100%, 50%);
+    animation-delay: 5500ms;
+    box-shadow: 0 0 16px hsl(114, 100%, 50%);
+}
+
+.circle:nth-child(23) {
+    border-color: hsl(119, 100%, 50%);
+    animation-delay: 5750ms;
+    box-shadow: 0 0 16px hsl(119, 100%, 50%);
+}
+
+.circle:nth-child(24) {
+    border-color: hsl(144, 100%, 50%);
+    animation-delay: 6000ms;
+    box-shadow: 0 0 16px hsl(144, 100%, 50%);
+}
+
+.circle:nth-child(25) {
+    border-color: hsl(269, 100%, 50%);
+    animation-delay: 6250ms;
+    box-shadow: 0 0 16px hsl(269, 100%, 50%);
+}
+
+.circle:nth-child(26) {
+    border-color: hsl(5, 100%, 50%);
+    animation-delay: 6500ms;
+    box-shadow: 0 0 16px hsl(5, 100%, 50%);
+}
+
+.circle:nth-child(27) {
+    border-color: hsl(218, 100%, 50%);
+    animation-delay: 6750ms;
+    box-shadow: 0 0 16px hsl(218, 100%, 50%);
+}
+
+.circle:nth-child(28) {
+    border-color: hsl(163, 100%, 50%);
+    animation-delay: 7000ms;
+    box-shadow: 0 0 16px hsl(163, 100%, 50%);
+}
+
+.circle:nth-child(29) {
+    border-color: hsl(233, 100%, 50%);
+    animation-delay: 7250ms;
+    box-shadow: 0 0 16px hsl(233, 100%, 50%);
+}
+
+.circle:nth-child(30) {
+    border-color: hsl(129, 100%, 50%);
+    animation-delay: 7500ms;
+    box-shadow: 0 0 16px hsl(129, 100%, 50%);
+}
+
+.circle:nth-child(31) {
+    border-color: hsl(310, 100%, 50%);
+    animation-delay: 7750ms;
+    box-shadow: 0 0 16px hsl(310, 100%, 50%);
+}
+
+.circle:nth-child(32) {
+    border-color: hsl(222, 100%, 50%);
+    animation-delay: 8000ms;
+    box-shadow: 0 0 16px hsl(222, 100%, 50%);
+}
+
+.circle:nth-child(33) {
+    border-color: hsl(273, 100%, 50%);
+    animation-delay: 8250ms;
+    box-shadow: 0 0 16px hsl(273, 100%, 50%);
+}
+
+.circle:nth-child(34) {
+    border-color: hsl(11, 100%, 50%);
+    animation-delay: 8500ms;
+    box-shadow: 0 0 16px hsl(11, 100%, 50%);
+}
+
+.circle:nth-child(35) {
+    border-color: hsl(14, 100%, 50%);
+    animation-delay: 8750ms;
+    box-shadow: 0 0 16px hsl(14, 100%, 50%);
+}
+
+.circle:nth-child(36) {
+    border-color: hsl(29, 100%, 50%);
+    animation-delay: 9000ms;
+    box-shadow: 0 0 16px hsl(29, 100%, 50%);
+}
+
+.circle:nth-child(37) {
+    border-color: hsl(102, 100%, 50%);
+    animation-delay: 9250ms;
+    box-shadow: 0 0 16px hsl(102, 100%, 50%);
+}
+
+.circle:nth-child(38) {
+    border-color: hsl(200, 100%, 50%);
+    animation-delay: 9500ms;
+    box-shadow: 0 0 16px hsl(200, 100%, 50%);
+}
+
+.circle:nth-child(39) {
+    border-color: hsl(200, 100%, 50%);
+    animation-delay: 9750ms;
+    box-shadow: 0 0 16px hsl(200, 100%, 50%);
+}
+
+.circle:nth-child(40) {
+    border-color: hsl(326, 100%, 50%);
+    animation-delay: 10000ms;
+    box-shadow: 0 0 16px hsl(326, 100%, 50%);
+}
+
+.circle:nth-child(41) {
+    border-color: hsl(108, 100%, 50%);
+    animation-delay: 10250ms;
+    box-shadow: 0 0 16px hsl(108, 100%, 50%);
+}
+
+.circle:nth-child(42) {
+    border-color: hsl(14, 100%, 50%);
+    animation-delay: 10500ms;
+    box-shadow: 0 0 16px hsl(14, 100%, 50%);
+}
+
+.circle:nth-child(43) {
+    border-color: hsl(337, 100%, 50%);
+    animation-delay: 10750ms;
+    box-shadow: 0 0 16px hsl(337, 100%, 50%);
+}
+
+.circle:nth-child(44) {
+    border-color: hsl(265, 100%, 50%);
+    animation-delay: 11000ms;
+    box-shadow: 0 0 16px hsl(265, 100%, 50%);
+}
+
+.circle:nth-child(45) {
+    border-color: hsl(54, 100%, 50%);
+    animation-delay: 11250ms;
+    box-shadow: 0 0 16px hsl(54, 100%, 50%);
+}
+
+.circle:nth-child(46) {
+    border-color: hsl(128, 100%, 50%);
+    animation-delay: 11500ms;
+    box-shadow: 0 0 16px hsl(128, 100%, 50%);
+}
+
+.circle:nth-child(47) {
+    border-color: hsl(274, 100%, 50%);
+    animation-delay: 11750ms;
+    box-shadow: 0 0 16px hsl(274, 100%, 50%);
+}
+
+.circle:nth-child(48) {
+    border-color: hsl(255, 100%, 50%);
+    animation-delay: 12000ms;
+    box-shadow: 0 0 16px hsl(255, 100%, 50%);
+}
+
+.circle:nth-child(49) {
+    border-color: hsl(181, 100%, 50%);
+    animation-delay: 12250ms;
+    box-shadow: 0 0 16px hsl(181, 100%, 50%);
+}
+
+.circle:nth-child(50) {
+    border-color: hsl(280, 100%, 50%);
+    animation-delay: 12500ms;
+    box-shadow: 0 0 16px hsl(280, 100%, 50%);
+}
+
+.circle:nth-child(51) {
+    border-color: hsl(48, 100%, 50%);
+    animation-delay: 12750ms;
+    box-shadow: 0 0 16px hsl(48, 100%, 50%);
+}
+
+.circle:nth-child(52) {
+    border-color: hsl(159, 100%, 50%);
+    animation-delay: 13000ms;
+    box-shadow: 0 0 16px hsl(159, 100%, 50%);
+}
+
+.circle:nth-child(53) {
+    border-color: hsl(237, 100%, 50%);
+    animation-delay: 13250ms;
+    box-shadow: 0 0 16px hsl(237, 100%, 50%);
+}
+
+.circle:nth-child(54) {
+    border-color: hsl(178, 100%, 50%);
+    animation-delay: 13500ms;
+    box-shadow: 0 0 16px hsl(178, 100%, 50%);
+}
+
+.circle:nth-child(55) {
+    border-color: hsl(165, 100%, 50%);
+    animation-delay: 13750ms;
+    box-shadow: 0 0 16px hsl(165, 100%, 50%);
+}
+
+.circle:nth-child(56) {
+    border-color: hsl(350, 100%, 50%);
+    animation-delay: 14000ms;
+    box-shadow: 0 0 16px hsl(350, 100%, 50%);
+}
+
+.circle:nth-child(57) {
+    border-color: hsl(19, 100%, 50%);
+    animation-delay: 14250ms;
+    box-shadow: 0 0 16px hsl(19, 100%, 50%);
+}
+
+.circle:nth-child(58) {
+    border-color: hsl(225, 100%, 50%);
+    animation-delay: 14500ms;
+    box-shadow: 0 0 16px hsl(225, 100%, 50%);
+}
+
+.circle:nth-child(59) {
+    border-color: hsl(195, 100%, 50%);
+    animation-delay: 14750ms;
+    box-shadow: 0 0 16px hsl(195, 100%, 50%);
+}
+
+.circle:nth-child(60) {
+    border-color: hsl(117, 100%, 50%);
+    animation-delay: 15000ms;
+    box-shadow: 0 0 16px hsl(117, 100%, 50%);
+}
+
+.circle:nth-child(61) {
+    border-color: hsl(288, 100%, 50%);
+    animation-delay: 15250ms;
+    box-shadow: 0 0 16px hsl(288, 100%, 50%);
+}
+
+.circle:nth-child(62) {
+    border-color: hsl(1, 100%, 50%);
+    animation-delay: 15500ms;
+    box-shadow: 0 0 16px hsl(1, 100%, 50%);
+}
+
+.circle:nth-child(63) {
+    border-color: hsl(33, 100%, 50%);
+    animation-delay: 15750ms;
+    box-shadow: 0 0 16px hsl(33, 100%, 50%);
+}
+
+.circle:nth-child(64) {
+    border-color: hsl(264, 100%, 50%);
+    animation-delay: 16000ms;
+    box-shadow: 0 0 16px hsl(264, 100%, 50%);
+}
+
+.circle:nth-child(65) {
+    border-color: hsl(88, 100%, 50%);
+    animation-delay: 16250ms;
+    box-shadow: 0 0 16px hsl(88, 100%, 50%);
+}
+
+.circle:nth-child(66) {
+    border-color: hsl(131, 100%, 50%);
+    animation-delay: 16500ms;
+    box-shadow: 0 0 16px hsl(131, 100%, 50%);
+}
+
+.circle:nth-child(67) {
+    border-color: hsl(262, 100%, 50%);
+    animation-delay: 16750ms;
+    box-shadow: 0 0 16px hsl(262, 100%, 50%);
+}
+
+.circle:nth-child(68) {
+    border-color: hsl(360, 100%, 50%);
+    animation-delay: 17000ms;
+    box-shadow: 0 0 16px hsl(360, 100%, 50%);
+}
+
+.circle:nth-child(69) {
+    border-color: hsl(285, 100%, 50%);
+    animation-delay: 17250ms;
+    box-shadow: 0 0 16px hsl(285, 100%, 50%);
+}
+
+.circle:nth-child(70) {
+    border-color: hsl(17, 100%, 50%);
+    animation-delay: 17500ms;
+    box-shadow: 0 0 16px hsl(17, 100%, 50%);
+}
+
+.circle:nth-child(71) {
+    border-color: hsl(332, 100%, 50%);
+    animation-delay: 17750ms;
+    box-shadow: 0 0 16px hsl(332, 100%, 50%);
+}
+
+.circle:nth-child(72) {
+    border-color: hsl(108, 100%, 50%);
+    animation-delay: 18000ms;
+    box-shadow: 0 0 16px hsl(108, 100%, 50%);
+}
+
+.circle:nth-child(73) {
+    border-color: hsl(140, 100%, 50%);
+    animation-delay: 18250ms;
+    box-shadow: 0 0 16px hsl(140, 100%, 50%);
+}
+
+.circle:nth-child(74) {
+    border-color: hsl(271, 100%, 50%);
+    animation-delay: 18500ms;
+    box-shadow: 0 0 16px hsl(271, 100%, 50%);
+}
+
+.circle:nth-child(75) {
+    border-color: hsl(10, 100%, 50%);
+    animation-delay: 18750ms;
+    box-shadow: 0 0 16px hsl(10, 100%, 50%);
+}
+
+.circle:nth-child(76) {
+    border-color: hsl(127, 100%, 50%);
+    animation-delay: 19000ms;
+    box-shadow: 0 0 16px hsl(127, 100%, 50%);
+}
+
+.circle:nth-child(77) {
+    border-color: hsl(358, 100%, 50%);
+    animation-delay: 19250ms;
+    box-shadow: 0 0 16px hsl(358, 100%, 50%);
+}
+
+.circle:nth-child(78) {
+    border-color: hsl(334, 100%, 50%);
+    animation-delay: 19500ms;
+    box-shadow: 0 0 16px hsl(334, 100%, 50%);
+}
+
+.circle:nth-child(79) {
+    border-color: hsl(293, 100%, 50%);
+    animation-delay: 19750ms;
+    box-shadow: 0 0 16px hsl(293, 100%, 50%);
+}
+
+.circle:nth-child(80) {
+    border-color: hsl(250, 100%, 50%);
+    animation-delay: 20000ms;
+    box-shadow: 0 0 16px hsl(250, 100%, 50%);
+}
+
+.circle:nth-child(81) {
+    border-color: hsl(117, 100%, 50%);
+    animation-delay: 20250ms;
+    box-shadow: 0 0 16px hsl(117, 100%, 50%);
+}
+
+.circle:nth-child(82) {
+    border-color: hsl(115, 100%, 50%);
+    animation-delay: 20500ms;
+    box-shadow: 0 0 16px hsl(115, 100%, 50%);
+}
+
+.circle:nth-child(83) {
+    border-color: hsl(302, 100%, 50%);
+    animation-delay: 20750ms;
+    box-shadow: 0 0 16px hsl(302, 100%, 50%);
+}
+
+.circle:nth-child(84) {
+    border-color: hsl(279, 100%, 50%);
+    animation-delay: 21000ms;
+    box-shadow: 0 0 16px hsl(279, 100%, 50%);
+}
+
+.circle:nth-child(85) {
+    border-color: hsl(188, 100%, 50%);
+    animation-delay: 21250ms;
+    box-shadow: 0 0 16px hsl(188, 100%, 50%);
+}
+
+.circle:nth-child(86) {
+    border-color: hsl(43, 100%, 50%);
+    animation-delay: 21500ms;
+    box-shadow: 0 0 16px hsl(43, 100%, 50%);
+}
+
+.circle:nth-child(87) {
+    border-color: hsl(46, 100%, 50%);
+    animation-delay: 21750ms;
+    box-shadow: 0 0 16px hsl(46, 100%, 50%);
+}
+
+.circle:nth-child(88) {
+    border-color: hsl(325, 100%, 50%);
+    animation-delay: 22000ms;
+    box-shadow: 0 0 16px hsl(325, 100%, 50%);
+}
+
+.circle:nth-child(89) {
+    border-color: hsl(335, 100%, 50%);
+    animation-delay: 22250ms;
+    box-shadow: 0 0 16px hsl(335, 100%, 50%);
+}
+
+.circle:nth-child(90) {
+    border-color: hsl(65, 100%, 50%);
+    animation-delay: 22500ms;
+    box-shadow: 0 0 16px hsl(65, 100%, 50%);
+}
+
+.circle:nth-child(91) {
+    border-color: hsl(214, 100%, 50%);
+    animation-delay: 22750ms;
+    box-shadow: 0 0 16px hsl(214, 100%, 50%);
+}
+
+.circle:nth-child(92) {
+    border-color: hsl(17, 100%, 50%);
+    animation-delay: 23000ms;
+    box-shadow: 0 0 16px hsl(17, 100%, 50%);
+}
+
+.circle:nth-child(93) {
+    border-color: hsl(291, 100%, 50%);
+    animation-delay: 23250ms;
+    box-shadow: 0 0 16px hsl(291, 100%, 50%);
+}
+
+.circle:nth-child(94) {
+    border-color: hsl(190, 100%, 50%);
+    animation-delay: 23500ms;
+    box-shadow: 0 0 16px hsl(190, 100%, 50%);
+}
+
+.circle:nth-child(95) {
+    border-color: hsl(30, 100%, 50%);
+    animation-delay: 23750ms;
+    box-shadow: 0 0 16px hsl(30, 100%, 50%);
+}
+
+.circle:nth-child(96) {
+    border-color: hsl(239, 100%, 50%);
+    animation-delay: 24000ms;
+    box-shadow: 0 0 16px hsl(239, 100%, 50%);
+}
+
+.circle:nth-child(97) {
+    border-color: hsl(64, 100%, 50%);
+    animation-delay: 24250ms;
+    box-shadow: 0 0 16px hsl(64, 100%, 50%);
+}
+
+.circle:nth-child(98) {
+    border-color: hsl(331, 100%, 50%);
+    animation-delay: 24500ms;
+    box-shadow: 0 0 16px hsl(331, 100%, 50%);
+}
+
+.circle:nth-child(99) {
+    border-color: hsl(96, 100%, 50%);
+    animation-delay: 24750ms;
+    box-shadow: 0 0 16px hsl(96, 100%, 50%);
+}
+
+.circle:nth-child(100) {
+    border-color: hsl(11, 100%, 50%);
+    animation-delay: 25000ms;
+    box-shadow: 0 0 16px hsl(11, 100%, 50%);
+}
+
+.circle:nth-child(101) {
+    border-color: hsl(148, 100%, 50%);
+    animation-delay: 25250ms;
+    box-shadow: 0 0 16px hsl(148, 100%, 50%);
+}
+
+.circle:nth-child(102) {
+    border-color: hsl(351, 100%, 50%);
+    animation-delay: 25500ms;
+    box-shadow: 0 0 16px hsl(351, 100%, 50%);
+}
+
+.circle:nth-child(103) {
+    border-color: hsl(174, 100%, 50%);
+    animation-delay: 25750ms;
+    box-shadow: 0 0 16px hsl(174, 100%, 50%);
+}
+
+.circle:nth-child(104) {
+    border-color: hsl(236, 100%, 50%);
+    animation-delay: 26000ms;
+    box-shadow: 0 0 16px hsl(236, 100%, 50%);
+}
+
+.circle:nth-child(105) {
+    border-color: hsl(209, 100%, 50%);
+    animation-delay: 26250ms;
+    box-shadow: 0 0 16px hsl(209, 100%, 50%);
+}
+
+.circle:nth-child(106) {
+    border-color: hsl(24, 100%, 50%);
+    animation-delay: 26500ms;
+    box-shadow: 0 0 16px hsl(24, 100%, 50%);
+}
+
+.circle:nth-child(107) {
+    border-color: hsl(300, 100%, 50%);
+    animation-delay: 26750ms;
+    box-shadow: 0 0 16px hsl(300, 100%, 50%);
+}
+
+.circle:nth-child(108) {
+    border-color: hsl(51, 100%, 50%);
+    animation-delay: 27000ms;
+    box-shadow: 0 0 16px hsl(51, 100%, 50%);
+}
+
+.circle:nth-child(109) {
+    border-color: hsl(343, 100%, 50%);
+    animation-delay: 27250ms;
+    box-shadow: 0 0 16px hsl(343, 100%, 50%);
+}
+
+.circle:nth-child(110) {
+    border-color: hsl(65, 100%, 50%);
+    animation-delay: 27500ms;
+    box-shadow: 0 0 16px hsl(65, 100%, 50%);
+}
+
+.circle:nth-child(111) {
+    border-color: hsl(84, 100%, 50%);
+    animation-delay: 27750ms;
+    box-shadow: 0 0 16px hsl(84, 100%, 50%);
+}
+
+.circle:nth-child(112) {
+    border-color: hsl(274, 100%, 50%);
+    animation-delay: 28000ms;
+    box-shadow: 0 0 16px hsl(274, 100%, 50%);
+}
+
+.circle:nth-child(113) {
+    border-color: hsl(158, 100%, 50%);
+    animation-delay: 28250ms;
+    box-shadow: 0 0 16px hsl(158, 100%, 50%);
+}
+
+.circle:nth-child(114) {
+    border-color: hsl(254, 100%, 50%);
+    animation-delay: 28500ms;
+    box-shadow: 0 0 16px hsl(254, 100%, 50%);
+}
+
+.circle:nth-child(115) {
+    border-color: hsl(360, 100%, 50%);
+    animation-delay: 28750ms;
+    box-shadow: 0 0 16px hsl(360, 100%, 50%);
+}
+
+.circle:nth-child(116) {
+    border-color: hsl(204, 100%, 50%);
+    animation-delay: 29000ms;
+    box-shadow: 0 0 16px hsl(204, 100%, 50%);
+}
+
+.circle:nth-child(117) {
+    border-color: hsl(304, 100%, 50%);
+    animation-delay: 29250ms;
+    box-shadow: 0 0 16px hsl(304, 100%, 50%);
+}
+
+.circle:nth-child(118) {
+    border-color: hsl(35, 100%, 50%);
+    animation-delay: 29500ms;
+    box-shadow: 0 0 16px hsl(35, 100%, 50%);
+}
+
+.circle:nth-child(119) {
+    border-color: hsl(155, 100%, 50%);
+    animation-delay: 29750ms;
+    box-shadow: 0 0 16px hsl(155, 100%, 50%);
+}
+
+.circle:nth-child(120) {
+    border-color: hsl(28, 100%, 50%);
+    animation-delay: 30000ms;
+    box-shadow: 0 0 16px hsl(28, 100%, 50%);
+}
+
+.circle:nth-child(121) {
+    border-color: hsl(37, 100%, 50%);
+    animation-delay: 30250ms;
+    box-shadow: 0 0 16px hsl(37, 100%, 50%);
+}
+
+.circle:nth-child(122) {
+    border-color: hsl(321, 100%, 50%);
+    animation-delay: 30500ms;
+    box-shadow: 0 0 16px hsl(321, 100%, 50%);
+}
+
+.circle:nth-child(123) {
+    border-color: hsl(320, 100%, 50%);
+    animation-delay: 30750ms;
+    box-shadow: 0 0 16px hsl(320, 100%, 50%);
+}
+
+.circle:nth-child(124) {
+    border-color: hsl(240, 100%, 50%);
+    animation-delay: 31000ms;
+    box-shadow: 0 0 16px hsl(240, 100%, 50%);
+}
+
+.circle:nth-child(125) {
+    border-color: hsl(61, 100%, 50%);
+    animation-delay: 31250ms;
+    box-shadow: 0 0 16px hsl(61, 100%, 50%);
+}
+
+.circle:nth-child(126) {
+    border-color: hsl(313, 100%, 50%);
+    animation-delay: 31500ms;
+    box-shadow: 0 0 16px hsl(313, 100%, 50%);
+}
+
+.circle:nth-child(127) {
+    border-color: hsl(341, 100%, 50%);
+    animation-delay: 31750ms;
+    box-shadow: 0 0 16px hsl(341, 100%, 50%);
+}
+
+.circle:nth-child(128) {
+    border-color: hsl(186, 100%, 50%);
+    animation-delay: 32000ms;
+    box-shadow: 0 0 16px hsl(186, 100%, 50%);
+}
+
+.circle:nth-child(129) {
+    border-color: hsl(145, 100%, 50%);
+    animation-delay: 32250ms;
+    box-shadow: 0 0 16px hsl(145, 100%, 50%);
+}
+
+.circle:nth-child(130) {
+    border-color: hsl(116, 100%, 50%);
+    animation-delay: 32500ms;
+    box-shadow: 0 0 16px hsl(116, 100%, 50%);
+}
+
+.circle:nth-child(131) {
+    border-color: hsl(55, 100%, 50%);
+    animation-delay: 32750ms;
+    box-shadow: 0 0 16px hsl(55, 100%, 50%);
+}
+
+.circle:nth-child(132) {
+    border-color: hsl(61, 100%, 50%);
+    animation-delay: 33000ms;
+    box-shadow: 0 0 16px hsl(61, 100%, 50%);
+}
+
+.circle:nth-child(133) {
+    border-color: hsl(53, 100%, 50%);
+    animation-delay: 33250ms;
+    box-shadow: 0 0 16px hsl(53, 100%, 50%);
+}
+
+.circle:nth-child(134) {
+    border-color: hsl(21, 100%, 50%);
+    animation-delay: 33500ms;
+    box-shadow: 0 0 16px hsl(21, 100%, 50%);
+}
+
+.circle:nth-child(135) {
+    border-color: hsl(302, 100%, 50%);
+    animation-delay: 33750ms;
+    box-shadow: 0 0 16px hsl(302, 100%, 50%);
+}
+
+.circle:nth-child(136) {
+    border-color: hsl(323, 100%, 50%);
+    animation-delay: 34000ms;
+    box-shadow: 0 0 16px hsl(323, 100%, 50%);
+}
+
+.circle:nth-child(137) {
+    border-color: hsl(122, 100%, 50%);
+    animation-delay: 34250ms;
+    box-shadow: 0 0 16px hsl(122, 100%, 50%);
+}
+
+.circle:nth-child(138) {
+    border-color: hsl(79, 100%, 50%);
+    animation-delay: 34500ms;
+    box-shadow: 0 0 16px hsl(79, 100%, 50%);
+}
+
+.circle:nth-child(139) {
+    border-color: hsl(299, 100%, 50%);
+    animation-delay: 34750ms;
+    box-shadow: 0 0 16px hsl(299, 100%, 50%);
+}
+
+.circle:nth-child(140) {
+    border-color: hsl(3, 100%, 50%);
+    animation-delay: 35000ms;
+    box-shadow: 0 0 16px hsl(3, 100%, 50%);
+}
+
+.circle:nth-child(141) {
+    border-color: hsl(356, 100%, 50%);
+    animation-delay: 35250ms;
+    box-shadow: 0 0 16px hsl(356, 100%, 50%);
+}
+
+.circle:nth-child(142) {
+    border-color: hsl(323, 100%, 50%);
+    animation-delay: 35500ms;
+    box-shadow: 0 0 16px hsl(323, 100%, 50%);
+}
+
+.circle:nth-child(143) {
+    border-color: hsl(353, 100%, 50%);
+    animation-delay: 35750ms;
+    box-shadow: 0 0 16px hsl(353, 100%, 50%);
+}
+
+.circle:nth-child(144) {
+    border-color: hsl(18, 100%, 50%);
+    animation-delay: 36000ms;
+    box-shadow: 0 0 16px hsl(18, 100%, 50%);
+}
+
+.circle:nth-child(145) {
+    border-color: hsl(164, 100%, 50%);
+    animation-delay: 36250ms;
+    box-shadow: 0 0 16px hsl(164, 100%, 50%);
+}
+
+.circle:nth-child(146) {
+    border-color: hsl(228, 100%, 50%);
+    animation-delay: 36500ms;
+    box-shadow: 0 0 16px hsl(228, 100%, 50%);
+}
+
+.circle:nth-child(147) {
+    border-color: hsl(109, 100%, 50%);
+    animation-delay: 36750ms;
+    box-shadow: 0 0 16px hsl(109, 100%, 50%);
+}
+
+.circle:nth-child(148) {
+    border-color: hsl(133, 100%, 50%);
+    animation-delay: 37000ms;
+    box-shadow: 0 0 16px hsl(133, 100%, 50%);
+}
+
+.circle:nth-child(149) {
+    border-color: hsl(332, 100%, 50%);
+    animation-delay: 37250ms;
+    box-shadow: 0 0 16px hsl(332, 100%, 50%);
+}
+
+.circle:nth-child(150) {
+    border-color: hsl(96, 100%, 50%);
+    animation-delay: 37500ms;
+    box-shadow: 0 0 16px hsl(96, 100%, 50%);
+}
+
+.circle:nth-child(151) {
+    border-color: hsl(179, 100%, 50%);
+    animation-delay: 37750ms;
+    box-shadow: 0 0 16px hsl(179, 100%, 50%);
+}
+
+.circle:nth-child(152) {
+    border-color: hsl(331, 100%, 50%);
+    animation-delay: 38000ms;
+    box-shadow: 0 0 16px hsl(331, 100%, 50%);
+}
+
+.circle:nth-child(153) {
+    border-color: hsl(109, 100%, 50%);
+    animation-delay: 38250ms;
+    box-shadow: 0 0 16px hsl(109, 100%, 50%);
+}
+
+.circle:nth-child(154) {
+    border-color: hsl(78, 100%, 50%);
+    animation-delay: 38500ms;
+    box-shadow: 0 0 16px hsl(78, 100%, 50%);
+}
+
+.circle:nth-child(155) {
+    border-color: hsl(115, 100%, 50%);
+    animation-delay: 38750ms;
+    box-shadow: 0 0 16px hsl(115, 100%, 50%);
+}
+
+.circle:nth-child(156) {
+    border-color: hsl(144, 100%, 50%);
+    animation-delay: 39000ms;
+    box-shadow: 0 0 16px hsl(144, 100%, 50%);
+}
+
+.circle:nth-child(157) {
+    border-color: hsl(29, 100%, 50%);
+    animation-delay: 39250ms;
+    box-shadow: 0 0 16px hsl(29, 100%, 50%);
+}
+
+.circle:nth-child(158) {
+    border-color: hsl(122, 100%, 50%);
+    animation-delay: 39500ms;
+    box-shadow: 0 0 16px hsl(122, 100%, 50%);
+}
+
+.circle:nth-child(159) {
+    border-color: hsl(270, 100%, 50%);
+    animation-delay: 39750ms;
+    box-shadow: 0 0 16px hsl(270, 100%, 50%);
+}
+
+.circle:nth-child(160) {
+    border-color: hsl(258, 100%, 50%);
+    animation-delay: 40000ms;
+    box-shadow: 0 0 16px hsl(258, 100%, 50%);
+}
+
+.circle:nth-child(161) {
+    border-color: hsl(198, 100%, 50%);
+    animation-delay: 40250ms;
+    box-shadow: 0 0 16px hsl(198, 100%, 50%);
+}
+
+.circle:nth-child(162) {
+    border-color: hsl(203, 100%, 50%);
+    animation-delay: 40500ms;
+    box-shadow: 0 0 16px hsl(203, 100%, 50%);
+}
+
+.circle:nth-child(163) {
+    border-color: hsl(121, 100%, 50%);
+    animation-delay: 40750ms;
+    box-shadow: 0 0 16px hsl(121, 100%, 50%);
+}
+
+.circle:nth-child(164) {
+    border-color: hsl(233, 100%, 50%);
+    animation-delay: 41000ms;
+    box-shadow: 0 0 16px hsl(233, 100%, 50%);
+}
+
+.circle:nth-child(165) {
+    border-color: hsl(86, 100%, 50%);
+    animation-delay: 41250ms;
+    box-shadow: 0 0 16px hsl(86, 100%, 50%);
+}
+
+.circle:nth-child(166) {
+    border-color: hsl(289, 100%, 50%);
+    animation-delay: 41500ms;
+    box-shadow: 0 0 16px hsl(289, 100%, 50%);
+}
+
+.circle:nth-child(167) {
+    border-color: hsl(96, 100%, 50%);
+    animation-delay: 41750ms;
+    box-shadow: 0 0 16px hsl(96, 100%, 50%);
+}
+
+.circle:nth-child(168) {
+    border-color: hsl(170, 100%, 50%);
+    animation-delay: 42000ms;
+    box-shadow: 0 0 16px hsl(170, 100%, 50%);
+}
+
+.circle:nth-child(169) {
+    border-color: hsl(275, 100%, 50%);
+    animation-delay: 42250ms;
+    box-shadow: 0 0 16px hsl(275, 100%, 50%);
+}
+
+.circle:nth-child(170) {
+    border-color: hsl(63, 100%, 50%);
+    animation-delay: 42500ms;
+    box-shadow: 0 0 16px hsl(63, 100%, 50%);
+}
+
+.circle:nth-child(171) {
+    border-color: hsl(36, 100%, 50%);
+    animation-delay: 42750ms;
+    box-shadow: 0 0 16px hsl(36, 100%, 50%);
+}
+
+.circle:nth-child(172) {
+    border-color: hsl(93, 100%, 50%);
+    animation-delay: 43000ms;
+    box-shadow: 0 0 16px hsl(93, 100%, 50%);
+}
+
+.circle:nth-child(173) {
+    border-color: hsl(319, 100%, 50%);
+    animation-delay: 43250ms;
+    box-shadow: 0 0 16px hsl(319, 100%, 50%);
+}
+
+.circle:nth-child(174) {
+    border-color: hsl(25, 100%, 50%);
+    animation-delay: 43500ms;
+    box-shadow: 0 0 16px hsl(25, 100%, 50%);
+}
+
+.circle:nth-child(175) {
+    border-color: hsl(216, 100%, 50%);
+    animation-delay: 43750ms;
+    box-shadow: 0 0 16px hsl(216, 100%, 50%);
+}
+
+.circle:nth-child(176) {
+    border-color: hsl(147, 100%, 50%);
+    animation-delay: 44000ms;
+    box-shadow: 0 0 16px hsl(147, 100%, 50%);
+}
+
+.circle:nth-child(177) {
+    border-color: hsl(79, 100%, 50%);
+    animation-delay: 44250ms;
+    box-shadow: 0 0 16px hsl(79, 100%, 50%);
+}
+
+.circle:nth-child(178) {
+    border-color: hsl(16, 100%, 50%);
+    animation-delay: 44500ms;
+    box-shadow: 0 0 16px hsl(16, 100%, 50%);
+}
+
+.circle:nth-child(179) {
+    border-color: hsl(24, 100%, 50%);
+    animation-delay: 44750ms;
+    box-shadow: 0 0 16px hsl(24, 100%, 50%);
+}
+
+.circle:nth-child(180) {
+    border-color: hsl(232, 100%, 50%);
+    animation-delay: 45000ms;
+    box-shadow: 0 0 16px hsl(232, 100%, 50%);
+}
+
+.circle:nth-child(181) {
+    border-color: hsl(120, 100%, 50%);
+    animation-delay: 45250ms;
+    box-shadow: 0 0 16px hsl(120, 100%, 50%);
+}
+
+.circle:nth-child(182) {
+    border-color: hsl(147, 100%, 50%);
+    animation-delay: 45500ms;
+    box-shadow: 0 0 16px hsl(147, 100%, 50%);
+}
+
+.circle:nth-child(183) {
+    border-color: hsl(228, 100%, 50%);
+    animation-delay: 45750ms;
+    box-shadow: 0 0 16px hsl(228, 100%, 50%);
+}
+
+.circle:nth-child(184) {
+    border-color: hsl(26, 100%, 50%);
+    animation-delay: 46000ms;
+    box-shadow: 0 0 16px hsl(26, 100%, 50%);
+}
+
+.circle:nth-child(185) {
+    border-color: hsl(207, 100%, 50%);
+    animation-delay: 46250ms;
+    box-shadow: 0 0 16px hsl(207, 100%, 50%);
+}
+
+.circle:nth-child(186) {
+    border-color: hsl(271, 100%, 50%);
+    animation-delay: 46500ms;
+    box-shadow: 0 0 16px hsl(271, 100%, 50%);
+}
+
+.circle:nth-child(187) {
+    border-color: hsl(93, 100%, 50%);
+    animation-delay: 46750ms;
+    box-shadow: 0 0 16px hsl(93, 100%, 50%);
+}
+
+.circle:nth-child(188) {
+    border-color: hsl(298, 100%, 50%);
+    animation-delay: 47000ms;
+    box-shadow: 0 0 16px hsl(298, 100%, 50%);
+}
+
+.circle:nth-child(189) {
+    border-color: hsl(338, 100%, 50%);
+    animation-delay: 47250ms;
+    box-shadow: 0 0 16px hsl(338, 100%, 50%);
+}
+
+.circle:nth-child(190) {
+    border-color: hsl(199, 100%, 50%);
+    animation-delay: 47500ms;
+    box-shadow: 0 0 16px hsl(199, 100%, 50%);
+}
+
+.circle:nth-child(191) {
+    border-color: hsl(133, 100%, 50%);
+    animation-delay: 47750ms;
+    box-shadow: 0 0 16px hsl(133, 100%, 50%);
+}
+
+.circle:nth-child(192) {
+    border-color: hsl(85, 100%, 50%);
+    animation-delay: 48000ms;
+    box-shadow: 0 0 16px hsl(85, 100%, 50%);
+}
+
+.circle:nth-child(193) {
+    border-color: hsl(109, 100%, 50%);
+    animation-delay: 48250ms;
+    box-shadow: 0 0 16px hsl(109, 100%, 50%);
+}
+
+.circle:nth-child(194) {
+    border-color: hsl(350, 100%, 50%);
+    animation-delay: 48500ms;
+    box-shadow: 0 0 16px hsl(350, 100%, 50%);
+}
+
+.circle:nth-child(195) {
+    border-color: hsl(127, 100%, 50%);
+    animation-delay: 48750ms;
+    box-shadow: 0 0 16px hsl(127, 100%, 50%);
+}
+
+.circle:nth-child(196) {
+    border-color: hsl(216, 100%, 50%);
+    animation-delay: 49000ms;
+    box-shadow: 0 0 16px hsl(216, 100%, 50%);
+}
+
+.circle:nth-child(197) {
+    border-color: hsl(292, 100%, 50%);
+    animation-delay: 49250ms;
+    box-shadow: 0 0 16px hsl(292, 100%, 50%);
+}
+
+.circle:nth-child(198) {
+    border-color: hsl(203, 100%, 50%);
+    animation-delay: 49500ms;
+    box-shadow: 0 0 16px hsl(203, 100%, 50%);
+}
+
+.circle:nth-child(199) {
+    border-color: hsl(253, 100%, 50%);
+    animation-delay: 49750ms;
+    box-shadow: 0 0 16px hsl(253, 100%, 50%);
+}
+
+.circle:nth-child(200) {
+    border-color: hsl(138, 100%, 50%);
+    animation-delay: 50000ms;
+    box-shadow: 0 0 16px hsl(138, 100%, 50%);
+}
+
